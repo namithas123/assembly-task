@@ -1,3 +1,4 @@
+//Printing env variables using commadn line args
 BITS 32
 extern printf
 extern scanf
